@@ -1,4 +1,4 @@
-# Starting point
+# custom-gnome-theme
 
 [![build-ublue](https://github.com/vaparetia/custom-gnome-theme/actions/workflows/build.yml/badge.svg)](https://github.com/vaparetia/custom-gnome-theme/actions/workflows/build.yml)
 
